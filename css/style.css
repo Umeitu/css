@@ -1,0 +1,40 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    font-family:"quicksand";
+}
+h3{
+    color: coral;
+    font-size: x-large;
+}
+
+h4{
+    color: rgb(189, 43, 226);
+    font-weight: 700;
+
+}
+h1{
+text-align: conter;
+}
+header h2{
+    color: blue; 
+
+}
+
+button:hover{
+    background-color: brown;
+
+}
+#about-section{
+    background-color: aquamarine;
+    
+
+
+    }
+    section{
+        background-color: beige;
+    }
+
+
